@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Class Attendance</string>
+    <string name="title_home">Class Attendance</string>
+    <string name="btn_add_class">Add Class</string>
+    <string name="btn_start_attendance">Start Attendance</string>
+    <string name="btn_scan_barcodes">Scan Barcodes</string>
+    <string name="btn_manual_add">Manual Add</string>
+    <string name="btn_done">Done</string>
+    <string name="btn_finish">Finish &amp; Save</string>
+    <string name="hint_roll_number">Enter Roll Number</string>
+    <string name="scan_guide_text">Point camera at student ID barcode</string>
+</resources>

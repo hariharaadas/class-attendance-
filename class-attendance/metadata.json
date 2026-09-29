@@ -1,0 +1,6 @@
+{
+  "name": "Class Attendance",
+  "description": "Offline college classroom attendance system with continuous 1D barcode scanner and Room database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,90 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Scanner Brackets (White, rounded corners) -->
+    <!-- Top-Left -->
+    <path
+        android:pathData="M30,38 L30,30 L38,30"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <!-- Top-Right -->
+    <path
+        android:pathData="M70,30 L78,30 L78,38"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <!-- Bottom-Left -->
+    <path
+        android:pathData="M30,70 L30,78 L38,78"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <!-- Bottom-Right -->
+    <path
+        android:pathData="M70,78 L78,78 L78,70"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- 1D Barcode Lines in Center (Varying thicknesses like standard 1D barcodes) -->
+    <!-- Bar 1 -->
+    <path
+        android:pathData="M37,42 L37,66"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="square" />
+    <!-- Bar 2 -->
+    <path
+        android:pathData="M42,42 L42,66"
+        android:strokeColor="#93C5FD"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="square" />
+    <!-- Bar 3 -->
+    <path
+        android:pathData="M46,42 L46,66"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="square" />
+    <!-- Bar 4 -->
+    <path
+        android:pathData="M52,42 L52,66"
+        android:strokeColor="#93C5FD"
+        android:strokeWidth="2"
+        android:strokeLineCap="square" />
+    <!-- Bar 5 -->
+    <path
+        android:pathData="M57,42 L57,66"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="square" />
+    <!-- Bar 6 -->
+    <path
+        android:pathData="M64,42 L64,66"
+        android:strokeColor="#93C5FD"
+        android:strokeWidth="2"
+        android:strokeLineCap="square" />
+    <!-- Bar 7 -->
+    <path
+        android:pathData="M69,42 L69,66"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:strokeLineCap="square" />
+
+    <!-- Attendance Checkmark indicator badge in bottom-right corner -->
+    <path
+        android:pathData="M76,68 A7,7 0 1,1 76,82 A7,7 0 1,1 76,68 Z"
+        android:fillColor="#10B981" />
+    <path
+        android:pathData="M73,75 L75.5,77.5 L79.5,72.5"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>
